@@ -19,6 +19,7 @@ inicio
 
  Repetir todo eso por cada m
 
+
 ![Programación 5](https://github.com/Santi1019/Reto3/assets/141860536/413ab8c4-3552-4cc4-8fe0-d5fafdc05600)
 
 2) Revise el procedimiento matemático para hallar raíces cuadradas (son divisiones y restas), plantee el algoritmo en pseudocódigo y en diagrama de flujo.
